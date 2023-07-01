@@ -1,0 +1,12 @@
+body{
+    background-color: grey;
+    font-family: "Times New Roman" sans-serif;
+}
+h1{
+    color:lawngreen;
+    font-weight: bold;
+    text-align: center;
+}
+ul{
+    color: black;
+}
